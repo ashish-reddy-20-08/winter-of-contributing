@@ -1,4 +1,4 @@
-## What is Clustering?
+## What is meant by Clustering?
 
 - Clustering is a type of unsupervised learning method of machine learning.
 - In the unsupervised learning method, the inferences are drawn from the data sets which do not contain labelled output variable. 
